@@ -1,0 +1,26 @@
+#logo {
+    width: 200px;
+    height: auto;
+}
+
+#bossam {
+    display: block;
+    width: 50%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+p {
+    display: block;
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
